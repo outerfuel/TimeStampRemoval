@@ -11,37 +11,33 @@ Save transcript.txt to working directory.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-* Terminal
-  ```sh
-  chmod +x ./run.sh
-  ```
-<img src="images/chmod.png">
 
 ### Installation
 
-1. Place _transcript.txt_ into working directory.
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   CD ~/Documents
+   git clone https://github.com/outerfuel/TimeStampRemoval
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Place _transcript.txt_ into working directory.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+3. Open Terminal and navigate to the cloned directory. Then set the script to be executable
+  ```sh
+  CD ~/Documents/TimeStampRemoval
+  chmod +x ./run.sh
+  ```
+  <img src="images/chmod.png">
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+4. Run the command.
+  ```sh
+  ./run.sh
+  ```
+  
+## Output
+Success
+  <img src="images/output.png">
+ 
+Error
+  <img src="images/error.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
