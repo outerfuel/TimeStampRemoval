@@ -1,18 +1,9 @@
-# TimeStampRemoval
+<!-- GETTING STARTED -->
+## TimeStampRemoval
 Sift through text log removing instances of a specific time stamp.
 
-# How to Configure
 
-
-# How to Run
-Save transcript.txt to working directory.
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Installation
+### How to Run
 
 1. Clone the repo
    ```sh
