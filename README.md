@@ -35,9 +35,11 @@ Save transcript.txt to working directory.
   
 ## Output
 Success
+
   <img src="images/output.png">
  
 Error
+
   <img src="images/error.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
